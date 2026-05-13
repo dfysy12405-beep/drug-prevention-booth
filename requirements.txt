@@ -1,6 +1,6 @@
 streamlit>=1.28.0
 opencv-python-headless==4.8.1.78
-mediapipe==0.10.9
-numpy>=1.24.0
+mediapipe==0.10.7
+numpy==1.26.4
 Pillow>=10.0.0
-qrcode>=7.4.2
+qrcode[pil]>=7.4.2
